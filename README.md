@@ -1,2 +1,2 @@
-# Portfolio-Website
+# PortfolioWebsite.github.io
 A dynamic website showcasing my work, projects, and achievements.
